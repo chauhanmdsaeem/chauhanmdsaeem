@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently pursuing a Bachelor of Computer Applications at Seshadripuram College, Bangalore.<br><br>I have a strong academic background with a CGPA of 9.30.<br><br>My core skills include C, Python, web development, and data analytics fundamentals.<br><br>I have hands on project experience through a front end weather dashboard hosted on GitHub.<br><br>I have completed virtual experience programs with Goldman Sachs and Tata Group.<br><br>I was recognized as Best Organizer and Team Leader for my leadership and coordination skills.<br><br>I am a quick learner, adaptable, and eager to grow in a professional IT environment.
+I am currently pursuing a Bachelor of Computer Applications at Seshadripuram College, Bangalore.<br><br>I have a strong academic background with a CGPA of 9.31.<br><br>My core skills include C, Python, web development, and data analytics fundamentals.<br><br>I have hands on project experience through a front end weather dashboard hosted on GitHub.<br><br>I have completed virtual experience programs with Goldman Sachs and Tata Group.<br><br>I was recognized as Best Organizer and Team Leader for my leadership and coordination skills.<br><br>I am a quick learner, adaptable, and eager to grow in a professional IT environment.
 
 
 ## 🌐 Socials:
